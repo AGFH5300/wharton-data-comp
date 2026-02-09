@@ -1,0 +1,17 @@
+home_team,away_team,p_home_win,implied_favorite,model_version
+brazil,kazakhstan,0.6746903162489175,home,v1_xg_diff_logit
+netherlands,mongolia,0.7402416851233418,home,v1_xg_diff_logit
+peru,rwanda,0.65990357058595,home,v1_xg_diff_logit
+thailand,oman,0.7225763335564783,home,v1_xg_diff_logit
+pakistan,germany,0.6645256362452852,home,v1_xg_diff_logit
+india,usa,0.6210367842778854,home,v1_xg_diff_logit
+panama,switzerland,0.6397113796015231,home,v1_xg_diff_logit
+iceland,canada,0.5238293926662414,home,v1_xg_diff_logit
+china,france,0.5694345098683541,home,v1_xg_diff_logit
+philippines,morocco,0.5201861163125185,home,v1_xg_diff_logit
+ethiopia,saudi_arabia,0.5476915928431321,home,v1_xg_diff_logit
+singapore,new_zealand,0.4920630895093022,away,v1_xg_diff_logit
+guatemala,south_korea,0.5879599190967958,home,v1_xg_diff_logit
+uk,mexico,0.5578574913665549,home,v1_xg_diff_logit
+vietnam,serbia,0.47042830983796635,away,v1_xg_diff_logit
+indonesia,uae,0.5790509361845536,home,v1_xg_diff_logit
